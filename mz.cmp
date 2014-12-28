@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by Cvpcb (2014-09-25 BZR 5147)-product   date = jue 25 dic 2014 15:15:15 ART
+
+BeginCmp
+TimeStamp = /5499FEAE;
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A49AC;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A459E;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499CC9C;
+Reference = C4;
+ValeurCmp = 10p;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499CE41;
+Reference = C5;
+ValeurCmp = 10p;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499A9DC;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AA20;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AA3D;
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AA57;
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AA72;
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AA8E;
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AAB9;
+Reference = C12;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AAD9;
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499AAF8;
+Reference = C14;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499FB24;
+Reference = C15;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499B8AC;
+Reference = C16;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A2151;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = Connect:USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A2BFF;
+Reference = D1;
+ValeurCmp = RED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A1A89;
+Reference = P1;
+ValeurCmp = JTAG;
+IdModule  = Connect:SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499D912;
+Reference = P2;
+ValeurCmp = CONN_20;
+IdModule  = Connect:VASCH10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499DE11;
+Reference = P3;
+ValeurCmp = CONN_20;
+IdModule  = Connect:VASCH10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499E04D;
+Reference = P4;
+ValeurCmp = CONN_20;
+IdModule  = Connect:VASCH10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499E393;
+Reference = P5;
+ValeurCmp = CONN_20;
+IdModule  = Connect:VASCH10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499E868;
+Reference = P6;
+ValeurCmp = CONN_20;
+IdModule  = Connect:VASCH10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499E9C1;
+Reference = P7;
+ValeurCmp = CONN_20;
+IdModule  = Connect:VASCH10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A0834;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A13FA;
+Reference = R2;
+ValeurCmp = 220R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A2FD1;
+Reference = R3;
+ValeurCmp = 220R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499F6A7;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = Discret:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /549A42D5;
+Reference = U1;
+ValeurCmp = NCP1117ST50T3G;
+IdModule  = SMD_Packages:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499A6BC;
+Reference = U2;
+ValeurCmp = PIC32MZ-144;
+IdModule  = SMD_Packages:TQFP144;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499CADB;
+Reference = X1;
+ValeurCmp = 24MHz;
+IdModule  = Crystals:Crystal_FOX-FE_SMD;
+EndCmp
+
+EndListe
